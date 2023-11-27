@@ -12,6 +12,8 @@ Pawra is an application designed to empower pet owners by providing them with th
    
 ## Preview
 
+<img src="./images/shot.png" alt="Alt text" title="Optional title" width="800"/>
+
 <!--
 **pawra-id/pawra-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
